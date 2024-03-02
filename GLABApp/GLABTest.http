@@ -1,0 +1,6 @@
+@GLABTest_HostAddress = http://localhost:5244
+
+GET {{GLABTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
